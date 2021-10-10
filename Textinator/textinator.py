@@ -16,10 +16,10 @@ def funk_0():
 
 
 while True:
-    print('-'*200)
-    print('TEXTINATOR circumvents many input limitations in password fields and other sensitive input fields where input may be restricted.')
-    print('')
-    print('Upon hitting enter you will have 3 seconds to select the text field in which to output data.')
-    var_0 = input('\nenter text to output:')
+    print('-'*100)
+    print(' '*44 + 'TEXTINATOR')
+    print('\nCircumvents password input limitations where input may be restricted.')
+    print('\nUpon hitting enter you will have 3 seconds to select the text field in which to output data.')
+    var_0 = input('\nEnter text to output:')
     funk_0()
 
